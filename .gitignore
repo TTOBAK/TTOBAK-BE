@@ -1,0 +1,15 @@
+__pycache__
+.DS_Store
+/.vscode
+/.idea/*
+.idea
+/venv_manual
+venv_manual
+/venv_manual/*
+venv_manual/*
+/venv
+venv
+/temp.py
+notebook.ipynb
+/.log_capture/*
+logs
